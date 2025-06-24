@@ -226,7 +226,7 @@ Looking forward to contributing and learning with the amazing team at Etailled D
               description="A collaborative task management application with real-time updates"
               image="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=500"
               tags={['React', 'Socket.io', 'MongoDB']}
-              link="https://github.com"
+              link="https://dashvista.netlify.app/"
             />
           </div>
         </div>
