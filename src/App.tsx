@@ -214,6 +214,13 @@ Looking forward to contributing and learning with the amazing team at Etailled D
         <div className="max-w-4xl mx-auto px-4">
           <h2 className="text-3xl font-bold mb-12 text-center animate-glow">Featured Projects</h2>
           <div className="grid md:grid-cols-2 gap-8">
+             <ProjectCard
+              title="Resume Builder"
+              description="A modern, interactive resume builder with real-time preview, multiple professional templates, and export functionality. Built with React and TypeScript for seamless user experience."
+              image="https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=500"
+              tags={['React', 'TypeScript', 'Tailwind CSS', 'PDF Export']}
+              link="https://github.com/ByteHacker01010101"
+            />
             <ProjectCard
               title="E-commerce Platform"
               description="A full-featured e-commerce platform built with React and Node.js"
