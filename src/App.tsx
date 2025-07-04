@@ -219,7 +219,7 @@ Looking forward to contributing and learning with the amazing team at Etailled D
               description="A modern, interactive resume builder with real-time preview, multiple professional templates, and export functionality. Built with React and TypeScript for seamless user experience."
               image="https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=500"
               tags={['React', 'TypeScript', 'Tailwind CSS', 'PDF Export']}
-              link="https://github.com/ByteHacker01010101"
+              link="https://kickresume.netlify.app/"
             />
             <ProjectCard
               title="E-commerce Platform"
